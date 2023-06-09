@@ -14,10 +14,7 @@ The implementation of Selection Sort and Insertion Sort is done independently ba
 material.
 Merge Sort code adopted from https://www.programiz.com/dsa/merge-sort.
 Counting Sort code adopted from https://www.programiz.com/dsa/counting-sort.
-The implementation of Benchmarking application is done independently. Specific ideas, such as a
-better way to measure time (How to measure run time, 2020) and the use of the superclass (Review
-and testing of sorting methods. Part I, 2014) to implement the "Don't Repeat Yourself" principle,
-have been adopted from other sources.
+
 The program contains 9 classes. The "Main" class starts the whole application. The "TableCreator"
 class is the class that implements methods to save the results of measurements, creating and
 displaying the table of results in the console. The "MyArrays" class contains a method that
